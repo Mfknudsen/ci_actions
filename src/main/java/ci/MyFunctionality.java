@@ -1,5 +1,7 @@
 package ci;
 
+import org.eclipse.persistence.internal.jpa.parsing.SomeNode;
+
 public class MyFunctionality {
 
     public MyFunctionality() {
